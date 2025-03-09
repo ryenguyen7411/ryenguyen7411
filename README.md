@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://share.icloud.com/photos/09bhx5SeG1SIIDHW49D1fA3rg" alt="Rye Nguyen - Software Engineer" />
+  <img src="assets/images/top-banner.JPEG" alt="Rye Nguyen - Software Engineer" />
   <h1>Hi there 👋, I'm Rye Nguyen</h1>
   <h3>I'm an expert in Javascript, Typescript, Node.js, Micro Frontend, Neovim</h3>
 </div>
