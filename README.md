@@ -72,5 +72,5 @@ I'm Rye Nguyen, an experienced software engineer, with 8+ years of experience bu
 ## 🎧 What I'm Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lreqqxxlbm42nlumxbvwgcklqy&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lreqqxxlbm42nlumxbvwgcklqy&cover_image=true&theme=novatorem" />
 </div>
