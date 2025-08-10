@@ -13,7 +13,7 @@ I'm Rye Nguyen, an experienced software engineer, with 8+ years of experience bu
 - 💬 Ask me about React, TypeScript, and software architecture
 - 📫 How to reach me: [Email](mailto:ryenguyen7411@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ryenguyen7411)
 
-**“Great things take time. For the greatest, it cost your heart and mind.”**
+**“Great things take time. For the greatest, it take your heart and mind.”**
 
 ## 🛠️ My Tech Stack
 
