@@ -72,7 +72,7 @@ I'm Rye Nguyen, an experienced software engineer, with 8+ years of experience bu
 ## 👀 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ryenguyen7411/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ryenguyen7411&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </div>
 
 ## 🎧 What I'm Listening To
