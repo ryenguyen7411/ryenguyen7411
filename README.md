@@ -49,9 +49,9 @@ I'm Rye Nguyen, an experienced software engineer, with 8+ years of experience bu
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="top">
   <a href="https://github.com/ryenguyen7411">
-    <img align="center" src="https://github-readme-stats-ryenguyen7411.vercel.app/api?username=ryenguyen7411&count_private=true&show_icons=true&theme=radical&hide=prs,issues&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-ryenguyen7411.vercel.app/api?username=ryenguyen7411&count_private=true&show_icons=true&theme=radical&hide=prs,issues&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ryenguyen7411">
     <img src="https://github-readme-stats-ryenguyen7411.vercel.app/api/top-langs/?username=ryenguyen7411&hide=php&theme=radical" alt="Rye's Top Lang" />
