@@ -1,0 +1,43 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '17 0 * * *' # daily, 07:17 in Vietnam
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/generate-cards.mjs, .github/workflows/cards.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate cards
+        env:
+          # METRICS_TOKEN: a read-only token that can see private repos, so private
+          # work is counted. Without it the Action's own token counts public data only.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/generate-cards.mjs
+      - name: Commit changes
+        run: |
+          git add assets/cards
+          if git diff --cached --quiet; then
+            echo "Cards unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(cards): update profile stats"
+          git push
