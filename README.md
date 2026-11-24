@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Rye Nguyen 👋</h1>
 
-  <p><b>Staff Software Engineer</b> · TypeScript, React &amp; React Native, Micro Frontends, Node.js, Go</p>
+  <p><b>Staff Software Engineer</b> · TypeScript, React &amp; React Native, Micro Frontends, Node.js, Go, Kubernetes</p>
 
   <p>
     <a href="https://ryenguyen.dev"><img src="https://img.shields.io/badge/ryenguyen.dev-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -20,6 +20,7 @@
 10+ years building web and mobile products at scale, in ride-hailing, food delivery and stock trading, for up to 10 million users. I like turning complex problems into simple, fast, intuitive interfaces.
 
 - 🔭 Building enterprise React apps and micro frontends (Module Federation)
+- 🚢 I own what I ship, end to end: Kubernetes + Helm deploys, CI/CD, Prometheus/Grafana/Loki dashboards and alerts, Sentry for errors and Web Vitals
 - ⚡ Focused on performance and developer productivity
 - 🌱 Always learning system design and optimization
 - 💬 Ask me about React, TypeScript and software architecture
@@ -36,8 +37,14 @@
 </p>
 
 <p align="center">
-  <b>Backend &amp; tooling</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,postgres,mysql,mongodb,redis,elasticsearch,docker,nginx,firebase,neovim&perline=11" alt="Node.js, Go, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Docker, Nginx, Firebase, Neovim" />
+  <b>Backend &amp; data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,go,postgres,mysql,mongodb,redis,elasticsearch,firebase&perline=8" alt="Node.js, Go, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Firebase" />
+</p>
+
+<p align="center">
+  <b>Infra &amp; observability</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,cloudflare,githubactions,gitlab,prometheus,grafana,sentry,linux&perline=10" alt="Kubernetes, Docker, Nginx, Cloudflare, GitHub Actions, GitLab CI, Prometheus, Grafana, Sentry, Linux" />
+  <br/><sub>Helm · Loki · self-hosted CI runners · Neovim</sub>
 </p>
 
 ### 📊 GitHub stats
