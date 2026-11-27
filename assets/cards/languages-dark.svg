@@ -35,5 +35,5 @@
   <circle cx="29" cy="160" r="5" fill="#8b949e"/>
   <text x="40" y="164" class="lang">Other</text>
   <text x="196" y="164" class="pct" text-anchor="end">7.1%</text>
-  <text x="24" y="196" class="foot">Weighted by code size and repo count · updated 2026-11-26</text>
+  <text x="24" y="196" class="foot">Weighted by code size and repo count · updated 2026-11-27</text>
 </svg>
